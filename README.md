@@ -1,10 +1,10 @@
-README.md
+# README.md
 
 This is a version of the React tutorial which demonstrates the creation of a simple _tic tac toe_ application.
 
-It also includes an iplementation of the option to highlight the winnng line or lines at the end of the game.
+It also includes an implementation of the option to highlight the winning line or lines at the end of the game.
 
-Below here is the default README:
+_**Below here is the default README:**_
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
